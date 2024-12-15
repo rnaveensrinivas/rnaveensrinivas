@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Naveen!
 
-<!--
-**rnaveensrinivas/rnaveensrinivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently learning **AI from scratch**.  
+- 📚 Inspired by Vedanta.
+- 🤗 I like to keep things simple.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 My Interests:
+- 🤖 AI & Machine Learning
+- 🖥️ Operating Systems & Linux
+- 📘 Vedantic studies and research
+  
+---
+
+### 🚀 Current Goals:
+- Deepen my understanding of AI fundamentals.  
+- Contribute to impactful projects in AI research.  
+
+Feel free to connect or explore my repositories!
