@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I am a **Computer Science graduate** from College of Engineering, Guindy (Anna University). Skilled in **cybersecurity and ML security**. I have professional experience at **Wells Fargo** as a Software Engineer and Intern Analyst, building scalable **data pipelines and workflow engines**. In research, I have developed an **LLM-powered Intrusion Detection System** for vehicular networks achieving **98% detection accuracy**, and explored **adversarial attacks and defenses in medical imaging** to improve model interpretability. I am currently getting my hands dirty with **computer networks and network security**.
+I am a **Computer Science graduate** from College of Engineering, Guindy (Anna University). Skilled in **cybersecurity and ML security**. I have professional experience at **Wells Fargo** as a Software Engineer and Intern Analyst, building scalable **data pipelines and workflow engines**. In research, I have developed an **LLM-powered Intrusion Detection System** for vehicular networks, and explored **adversarial attacks and defenses in medical imaging** to improve model interpretability. I am currently getting my hands dirty with **computer networks and network security**.
 
 ---
 
