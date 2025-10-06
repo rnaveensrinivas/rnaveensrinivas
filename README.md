@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Naveen Srinivas Radhakrishnan 👋</h1>
 <p align="center">
-  <em>Software Engineer | Cybersecurity Enthusiast | Researcher in ML Security & IoV</em>
+  <em>Software Engineer | Passionate about Networks & Cybersecurity</em>
 </p>
 
 ---
