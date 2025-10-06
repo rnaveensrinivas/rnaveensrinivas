@@ -6,12 +6,10 @@
 ---
 
 ## 🚀 About Me
-I’m a **Computer Science graduate** passionate about **cybersecurity**, **identity and access management**, and **secure software systems**.  
-I enjoy **building intelligent systems**, exploring **network security**, and applying **ML/DL** techniques to real-world problems.  
 
-- 🔭 Currently working as a **Software Engineer** at **Wells Fargo** on IAM and cybersecurity automation.  
-- 🌱 Exploring **Generative AI** applications in security and software development.  
-- 📖 Lifelong learner in **operating systems, compilers, and network security**.  
+Self-motivated computer science graduate with hands-on experience in cybersecurity and identity and access
+management. Skilled in ML security, IDS for IoV, and IoT. Currently fascinated by computer networks and their
+security, eager to build expertise and develop secure solutions. Committed to continuous learning and innovation.
 
 ---
 
@@ -55,16 +53,7 @@ Data Structures & Algorithms · Operating Systems · Computer Networks · Crypto
 
 ---
 
-## 🛠 Projects
-
-| Project | Description | Links |
-|---------|------------|-------|
-| **Bird Call Classification** | Built a deep learning model with **EfficientNet + GeM pooling** to classify bird calls. Applied **noise reduction** and **peak-based cropping** to Mel Spectrograms. Achieved **78% accuracy**. | [Kaggle](https://www.kaggle.com/code/rnaveensrinivas/dl-project) |
-| **Cube Dodger** | Developed an **endless runner game** in Unity C# from scratch (game logic, assets, UI, animations). Composed original music and sound effects. Deployed using **WebGL**. | [GitHub](https://github.com/rnaveensrinivas/College-CS6026-GD-Cube_Dodger) · [Live Demo](https://rnaveensrinivas.github.io/CubeDodger) |
-
----
-
-## 🧰 Tech Stack
+## 🧰 Tech Stack I have worked with
 
 **Languages:** C · C++ · C# · Java · Python · SQL · JavaScript · PHP  
 **Frameworks & Libraries:** .NET Core · ASP.NET · MVC · Entity Framework · PyTorch · Scikit-learn · LangChain  
