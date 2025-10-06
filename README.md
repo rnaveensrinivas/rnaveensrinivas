@@ -7,49 +7,12 @@
 
 ## 🚀 About Me
 
-Self-motivated computer science graduate with hands-on experience in cybersecurity and identity and access
-management. Skilled in ML security, IDS for IoV, and IoT. Currently fascinated by computer networks and their
-security, eager to build expertise and develop secure solutions. Committed to continuous learning and innovation.
+I am a **Computer Science graduate** from College of Engineering, Guindy (Anna University) with a **CGPA of 9.83/10**, skilled in **cybersecurity, network security, and ML security**.  
+I have professional experience at **Wells Fargo** as a Software Engineer and Intern Analyst, building scalable **data pipelines, workflow engines, and cybersecurity automation tools**.  
 
----
+In research, I have developed an **LLM-powered Intrusion Detection System** for vehicular networks achieving **98% detection accuracy**, and explored **adversarial attacks and defenses in medical imaging** to improve model interpretability.  
 
-## 🎓 Education
-
-**College of Engineering, Guindy – Anna University**  
-*BE in Computer Science* | Dec 2020 – May 2024 | **CGPA: 9.83/10**  
-
-**Relevant Coursework:**  
-Data Structures & Algorithms · Operating Systems · Computer Networks · Cryptography & Network Security · Information Security · Machine Learning · Deep Learning  
-
----
-
-## 💼 Experience
-
-### Wells Fargo | Bangalore, India
-**Software Engineer** | Aug 2024 – Present  
-- Designed a **scalable ETL-based data warehouse** consolidating service account data from Azure, GCP, Cisco, Windows, and mainframes.  
-- SME for **Generative AI and Copilot applications** in cybersecurity automation.  
-
-**Intern Analyst** | June 2023 – Aug 2023  
-- Developed a **proof-of-concept workflow engine** using Elsa Workflows (.NET).  
-- Built **interactive dashboards** to monitor workflow schedules, failures, and record processing.  
-
----
-
-## 🔬 Research
-
-### IIIDS – Intelligent Integrated Intrusion Detection System
-**Apr 2024 – Jul 2024** | College of Engineering, Guindy  
-- Developed a **LLM-powered IDS** (Mistral-7B + T5) for intra- and inter-vehicular networks.  
-- Achieved **98% detection accuracy** on TON_IoT and CICIOV2024 datasets.  
-- Optimized for **low computational footprint** (~4GB RAM, 0.7s inference).  
-- [📄 Paper](https://www.sciencedirect.com/science/article/abs/pii/S2542660525001805) – *Elsevier IoT, 2025*  
-
-### Adversarial ML in Medical Imaging
-**Feb 2024 – Apr 2024** | College of Engineering, Guindy  
-- Studied **Adversarial Imperceptible Patch Attacks** on CNN interpretability (VGG16).  
-- Applied defense mechanisms (adversarial training + denoising) to restore **accuracy & model explanations**.  
-- [📄 Paper](https://link.springer.com/chapter/10.1007/978-3-031-93688-3_15) – *Springer CVIP, 2024*  
+I am passionate about **networks, secure systems, and intelligent solutions**, and continuously seek to innovate and learn.
 
 ---
 
